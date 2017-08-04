@@ -1,6 +1,5 @@
-# trumpspeak.js
-A plugin that changes the TTS to trumps voice.
+# Custom Voices
+Plugins for custom voices
 
-#Installation
-
-Place in plugins folder, reboot node process
+# Installation
+Download this repo then place on of the JS files into your plugins folder
