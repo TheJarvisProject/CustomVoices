@@ -1,6 +1,6 @@
 module.exports = {
     requirements: "",
-    name: "trumpseak.js",
+    name: "trumpspeak.js",
     version: "0.1.0",
     OnLoad: function() {
       this.Info(this.name + " " + this.version + " loaded!");
