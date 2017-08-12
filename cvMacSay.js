@@ -1,10 +1,6 @@
 module.exports = function(text) {
   const Logger = require("./Logger.js");
   const logger = new Logger("Jarvis");
-  const googleTTS = require('google-tts-api');
-  const fs = require("fs");
-  const http = require('http');
-  const https = require('https');
   const cmd = require('node-cmd');
   require('dotenv').config()
 
